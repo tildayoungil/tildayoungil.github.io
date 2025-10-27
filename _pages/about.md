@@ -9,14 +9,13 @@ redirect_from:
 
 Lectures : 
 ======
-[Natural Language Programming(MS)](https://docs.google.com/document/d/1v-VuDiE1_xePzTqUUiEVHEiV_AgnpWlQcBTYa6g9GsY/edit?usp=sharing)  
-[Processing(SUES 2025)](https://sg.docworkspace.com/d/cIHSvpJlBpLiVxgY?from=dch)  
-[Create Design(SUES 2025)](https://sg.docworkspace.com/d/cICevpJlBwsfIxwY?from=dch)  
-
+[Forming](https://sg.docworkspace.com/d/cIKSzlKXEAr_r_McG?from=dch)  
+[Decorating](https://sg.docworkspace.com/d/cIFuzlKXEAozs_McG?from=dch)  
+[PotteryStory](https://sg.docworkspace.com/d/cIOCzlKXEArjs_McG?from=dch)  
 
 youTubes : 
 ======
-[MTS1](http://www.youtube.com/watch?v=nyhyB3gE1aw)
+[실린더만들기](https://youtu.be/SR8SlaXCmcs)
 [MTS2](http://www.youtube.com/watch?v=zFMOtzpkgQo)
 [Uochestra](http://www.youtube.com/watch?v=9-fKpwGm0Cg)
 [HandTracking](http://www.youtube.com/watch?v=19NqwLUM624)
