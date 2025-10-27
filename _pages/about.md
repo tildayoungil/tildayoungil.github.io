@@ -22,7 +22,7 @@ youTubes :
 [갓위에두고 굽깍기](https://youtube.com/shorts/4L4rKhdO6jo?feature=share)
 [기핀그립 안깍기 굽깍기](https://youtu.be/Iu6uN-UHQiY)  
 [핀칭볼](https://youtube.com/shorts/4jOcboEl7gM?feature=share)
-[코일링패턴컵](https://youtube.com/shorts/T6aKXknK2-g?feature=share)  
+[코일링패턴컵](https://youtube.com/shorts/T6aKXknK2-g?feature=share)
 [슬래핑](https://youtube.com/shorts/DyfBEWK7IQQ?feature=share)
 [가위로 자른 접시](https://youtube.com/shorts/7oBD55P3mxA?feature=share)  
 [라텍스사용1](https://youtube.com/shorts/mtE7r_BLXXc?feature=share)
