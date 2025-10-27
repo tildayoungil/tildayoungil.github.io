@@ -31,7 +31,6 @@ youTubes :
 [갓위에두고 굽깍기](https://youtube.com/shorts/4L4rKhdO6jo?feature=share)
 [전통반죽 꼬박밀기](https://youtube.com/shorts/lHaCtpqNzvo?feature=share)
 
-<br>
 <p align="center" width="100%">
 <img src="./../images/qr.png" width="136px" height="136px" title="https://tildayoungil.github.io/"> 
 </p>
