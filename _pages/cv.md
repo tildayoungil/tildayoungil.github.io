@@ -11,34 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Applied Mathematics, KAIST, 1993
-* M.S. in Applied Mathematics, KAIST, 1989
-* B.S. in Mathematics, Yonsei Univ., 1987
+* Master of Fine Art, Seoul National University, Graduate School, Department of Craft Arts, Crafts Arts Major, 1989~1991
+* Bachelor’s degree, Seoul National University, Department of Craft Arts, 1983~1987
 
 Work experience
 ======
-* Visiting Professor, School of Multimedia Design, SUES, China ('15 ~ '16)
-* Post-doctoral, Prof. Tom Lyche, Dept. of Informatics, Univ. of Oslo, Norway ('99 ~ '00)
-* Professor, Department of Computer Engineering, Dongseo University ('95 ~ )
-* Senior Engineer, Division II Open Systems Lab. DACOM Corp. R&D Center ('93 ~ '95)
-* Researcher, Computer Center, Korea Research Institute of Standards and Science ('92 ~ '93)
+* Assistant, Seoul National University, Department of Craft Arts, 1991.03 ~ 1992.08
+* Lectures, Myongji College, Department of Craft Arts, 1992.03 ~ 1993.08
+* Lectures, Kyoungnam Information University, Lifelong Education Center, Pottery Academy, 2020.06 ~ Present
 
-Publications
+Exhibition
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 생활도예전 Living Ceramics Exhibition, 토도랑 ToDoRang, 1988
+* 1990 서울아트페어 1990 Seoul Art Fair, 호암갤러리 DongBang Plaza, 1990.09.07~16
+* 3인전 3 Person Exhibition, 토아트스페이스 Tho Art Space, 1991
+* 제1회 진로지명도예전 - 은상수상 The 1st Jinro Ceramic Art Contest - Silver Award, 예술의전당미술관 Seoul Arts Center Art Museum, 1991.12.05~22
+* B35-‘92초대전 The 6th B35-‘92 Invited Exhibition, 한국문화진흥원미술회관 The Korean Culture & Arts Foundation Art Center, 1992.09.25~30
+* 메히공방 Mech Ceramic Studio, 경남정보대학교 Kyoungnam Information University, 2015.09 ~ Present
 
-  
