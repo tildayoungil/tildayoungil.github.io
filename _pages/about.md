@@ -16,19 +16,21 @@ Lectures :
 youTubes : 
 ======
 [실린더만들기](https://youtu.be/SR8SlaXCmcs)
-[MTS2](http://www.youtube.com/watch?v=zFMOtzpkgQo)
-[Uochestra](http://www.youtube.com/watch?v=9-fKpwGm0Cg)
-[HandTracking](http://www.youtube.com/watch?v=19NqwLUM624)
-[Hanguel](http://www.youtube.com/watch?v=pkLJi_Gz1nI)
-[ImageDeformation](http://www.youtube.com/watch?v=s1FcSpLabhw)
-[Eye Tracking with Kinect](http://www.youtube.com/watch?v=35AYNqk8Yrw)
-[DPII 3D Display System](https://www.youtube.com/watch?v=p-aoKsvyqjY)
-[Air-touch Interaction System](https://www.youtube.com/watch?v=KiVnVFinXc0)
-[Virtual meeting room](https://youtu.be/Bx0Y_ItbFsk)
-[IAI](https://www.youtube.com/watch?v=NmQIxMCwbns)
-[miniQ](https://www.youtube.com/watch?v=NkSvHTp3Pxs)
-[Multimodal](https://www.youtube.com/watch?v=x-EYtzSvTuw)
-[AR Museum](https://www.youtube.com/watch?v=eWA_kv97aVY)
+[기핀그립 안깍기 굽깍기](https://youtu.be/Iu6uN-UHQiY)
+[OneDay2308](https://youtu.be/lccPtpjvIrw)
+[가위로 자른 접시](https://youtube.com/shorts/7oBD55P3mxA?feature=share)
+[라텍스사용1](https://youtube.com/shorts/mtE7r_BLXXc?feature=share)
+[핀칭볼](https://youtube.com/shorts/4jOcboEl7gM?feature=share)
+[슬래핑](https://youtube.com/shorts/DyfBEWK7IQQ?feature=share)
+[라텍스사용2](https://youtube.com/shorts/fAELWHbnLMM?feature=share)
+[상감](https://youtube.com/shorts/2hFM-im5omk?feature=share)
+[색소지 잔 받침](https://youtube.com/shorts/4jqPxD2je9E?feature=share)
+[코일링패턴컵](https://youtube.com/shorts/T6aKXknK2-g?feature=share)
+[물레 반죽하기](https://youtube.com/shorts/oo-dL6P4Bok?feature=share)
+[굽깍기 trimming](https://youtube.com/shorts/zPai3HjM1-g?feature=share)
+[갓위에두고 굽깍기](https://youtube.com/shorts/4L4rKhdO6jo?feature=share)
+[전통반죽 꼬박밀기](https://youtube.com/shorts/lHaCtpqNzvo?feature=share)
+
 
 <br>
 <p align="center" width="100%">
