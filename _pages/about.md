@@ -11,7 +11,7 @@ Lectures :
 ======
 [Forming](https://sg.docworkspace.com/d/cIKSzlKXEAr_r_McG?from=dch)  
 [Decorating](https://sg.docworkspace.com/d/cIFuzlKXEAozs_McG?from=dch)  
-[PotteryStory](https://sg.docworkspace.com/d/cIOCzlKXEArjs_McG?from=dch)  
+[PotteryStory](https://sg.docworkspace.com/d/cIOCzlKXEArjs_McG?from=dch)    
 
 youTubes : 
 ======
@@ -31,7 +31,6 @@ youTubes :
 [갓위에두고 굽깍기](https://youtube.com/shorts/4L4rKhdO6jo?feature=share)
 [전통반죽 꼬박밀기](https://youtube.com/shorts/lHaCtpqNzvo?feature=share)
 
-
 <br>
 <p align="center" width="100%">
 <img src="./../images/qr.png" width="136px" height="136px" title="https://tildayoungil.github.io/"> 
@@ -39,5 +38,7 @@ youTubes :
 
 [tildayoungil@gmail.com](mailto:tildayoungil@gmail.com)  
 [https://tildayoungil.github.io/](https://tildayoungil.github.io/)  
+
+
 
 
