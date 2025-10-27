@@ -32,7 +32,7 @@ youTubes :
 
 <br>
 <p align="center" width="100%">
-<img src="./../images/qr_code.png" width="136px" height="136px" title="https://tildayoungil.github.io/"> 
+<img src="./../images/qr.png" width="136px" height="136px" title="https://tildayoungil.github.io/"> 
 </p>
 
 [tildayoungil@gmail.com](mailto:tildayoungil@gmail.com)  
