@@ -1,0 +1,19 @@
+---
+title: 'Deep Reinforcement Learning'
+date: 2025-03-02
+permalink: /posts/2025/03/Deep-Reinforcement-Learning/
+tags:
+  - Deep
+  - Reinforcement 
+  - Learning
+---
+
+[Deep Reinforcement Learning](https://docs.google.com/presentation/d/1kHpB10svC6aYeKoeE4p1zj1HdUvIGvZ7N4-3_ZNVoZ8/edit?usp=sharing)  
+1. Introduction  
+2. RN on Frozen Lake - Exploit VS Exploration  
+3. Q-table, Q-function approximation, Q-Network  
+4. Playing Atari with Deep Reinforcement Learning, NIPS 2013  
+5. Human-level control through deep reinforcement learning, Nature 2015  
+6. Mastering the game of Go with deep neural networks and tree search, Nature 2016  
+7. Markov Decision Process  
+8. Eureka: Human-Level Reward Design via Coding LLM, ICLR 2024  
