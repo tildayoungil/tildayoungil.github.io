@@ -9,6 +9,9 @@ tags:
 ---
 
 [Deep Reinforcement Learning](https://docs.google.com/presentation/d/1kHpB10svC6aYeKoeE4p1zj1HdUvIGvZ7N4-3_ZNVoZ8/edit?usp=sharing)  
+<p align="center" width="100%">
+<img src="./../images/qr.png" width="136px" height="136px" title="https://tildayoungil.github.io/"> 
+</p>
 1. Introduction  
 2. RN on Frozen Lake - Exploit VS Exploration  
 3. Q-table, Q-function approximation, Q-Network  
