@@ -13,7 +13,7 @@ Lectures :
 [Decorating](https://sg.docworkspace.com/d/cIFuzlKXEAozs_McG?from=dch)  
 [PotteryStory](https://sg.docworkspace.com/d/cIOCzlKXEArjs_McG?from=dch)    
 
-youTubes : 
+YouTubes : 
 ======
 [전통반죽 꼬박밀기](https://youtube.com/shorts/lHaCtpqNzvo?feature=share)
 [물레 반죽하기](https://youtube.com/shorts/oo-dL6P4Bok?feature=share)
