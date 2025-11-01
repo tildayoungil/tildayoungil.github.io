@@ -12,6 +12,7 @@ Lectures :
 [Forming](https://sg.docworkspace.com/d/cIKSzlKXEAr_r_McG?from=dch)  
 [Decorating](https://sg.docworkspace.com/d/cIFuzlKXEAozs_McG?from=dch)  
 [PotteryStory](https://sg.docworkspace.com/d/cIOCzlKXEArjs_McG?from=dch)    
+[Registration](https://forms.wps.com/w/write/sg/cAs1Dzh3/)
 
 YouTubes : 
 ======
