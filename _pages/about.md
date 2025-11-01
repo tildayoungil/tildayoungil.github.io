@@ -34,13 +34,9 @@ YouTubes :
 
 <p align="center" width="100%">
 <img src="./../images/qr.png" width="136px" height="136px" title="https://tildayoungil.github.io/"> 
+  
 <img src="./../images/2025-11-01-182513.png" width="136px" height="136px" title="https://www.wechat.com/"> 
 </p>
 
 [tildayoungil@gmail.com](mailto:tildayoungil@gmail.com)  
 [https://tildayoungil.github.io/](https://tildayoungil.github.io/)  
-wxid_wuoe8rtn4pmo22  
-
-
-
-
