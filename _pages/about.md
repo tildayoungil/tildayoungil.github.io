@@ -21,7 +21,7 @@ YouTubes :
 [실린더만들기](https://youtu.be/SR8SlaXCmcs)  
 [굽깍기 trimming](https://youtube.com/shorts/zPai3HjM1-g?feature=share)
 [갓위에두고 굽깍기](https://youtube.com/shorts/4L4rKhdO6jo?feature=share)
-[기핀그립 안깍기 굽깍기](https://youtu.be/Iu6uN-UHQiY)  
+[기핀그립 굽깍기](https://youtu.be/Iu6uN-UHQiY)  
 [핀칭볼](https://youtube.com/shorts/4jOcboEl7gM?feature=share)
 [코일링패턴컵](https://youtube.com/shorts/T6aKXknK2-g?feature=share)
 [슬래핑](https://youtube.com/shorts/DyfBEWK7IQQ?feature=share)
